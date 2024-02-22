@@ -1,4 +1,4 @@
-# Data Analystics Engineer
+# Big Data Analystics Engineer
 
 ## Education
 - Masters in computer science | University of Missouri Kansas City  (_Aug 2022 to current_)								       		
