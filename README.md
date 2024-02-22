@@ -5,12 +5,12 @@
 - Bachelors of Technology	| K L University  (_August 2016 - April 2020_)
   
 ## Skills
-Data Engineering tools: Apache Spark , Snowflake , Azure Databricks, Apache Airflow , HADOOP
-Analytical Tools: Power BI, Excel
-Programming Languages: Python, SQL, Pyspark , Spark SQL
-Software’s: Service now
-Database: MySQL
-Cloud: AWS 
+**- Data Engineering tools:** Apache Spark , Snowflake , Azure Databricks, Apache Airflow , HADOOP
+**- Analytical Tools:** Power BI, Excel
+**- Programming Languages:** Python, SQL, Pyspark , Spark SQL
+**- Software’s:** Service now
+**- Database:** MySQL
+**- Cloud:** AWS 
 
 ## Work Experience
 **Data Analytics Engineer  @ Accenture (_Feb 2021- July 2022_)**
