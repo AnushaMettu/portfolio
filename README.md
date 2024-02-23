@@ -1,5 +1,9 @@
 # Big Data Analystics Engineer
 
+## About
+
+I'm deeply passionate about delving into massive datasets to unearth valuable insights. Leveraging advanced analytics techniques, I enjoy predicting trends and optimizing processes to drive informed decision-making. It's incredibly rewarding to use big data tools to innovate and create tangible impacts across diverse domains. 
+
 ## Education
 - Masters in computer science | University of Missouri Kansas City  (_Aug 2022 to current_)								       		
 - Bachelors of Technology	| K L University  (_August 2016 - April 2020_)
@@ -36,3 +40,9 @@
 ### Prediction of disease from symptoms with different Machine Learning Models
 
 - Our project utilizes machine learning algorithms, employing Python Pandas and Numpy, we meticulously read, cleanse, analyze, and visually represent to analyze patient data, predicting diseases based on symptoms from a CSV file. Multiple models are employed to accommodate symptom variations, offering a user-friendly interface for easy disease prediction with 90% accuracy and precautionary measures, especially for those without frequent access to diagnostic centers.
+
+## Note
+
+If you find the profile appealing, I would greatly appreciate the opportunity to contribute by means of a referral. 
+
+### Thank you.
