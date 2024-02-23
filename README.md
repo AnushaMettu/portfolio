@@ -41,7 +41,7 @@ I'm deeply passionate about delving into massive datasets to unearth valuable in
 
 - Our project utilizes machine learning algorithms, employing Python Pandas and Numpy, we meticulously read, cleanse, analyze, and visually represent to analyze patient data, predicting diseases based on symptoms from a CSV file. Multiple models are employed to accommodate symptom variations, offering a user-friendly interface for easy disease prediction with 90% accuracy and precautionary measures, especially for those without frequent access to diagnostic centers.
 
-## Note
+### Note
 
 If you find the profile appealing, I would greatly appreciate the opportunity to contribute by means of a referral. 
 
