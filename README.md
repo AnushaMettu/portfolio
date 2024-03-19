@@ -1,4 +1,4 @@
-# Big Data Analystics Engineer
+# Big Data Analytics Engineer
 
 ## About
 
